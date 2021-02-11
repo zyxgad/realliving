@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "realliving",
+    "name": "Real Living",
+    "description": "Real living mod.",
+    "version": "1.0.1.1",
+    "mcversion": "[1.16.4,1.17)",
+    "url": "https://www.github.com/zyxgad/gadmod/wiki",
+    "updateUrl": "https://www.github.com/zyxgad/gadmod/tags",
+    "authorList": ["zyxgad"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
